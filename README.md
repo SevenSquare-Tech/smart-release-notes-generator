@@ -15,6 +15,8 @@ smart-release-notes-generator automates the whole package release workflow inclu
 It follows Semantic Versioning (SemVer) and Conventional Commits to
 ensure consistent and reliable releases.
 
+[GitHub Text: Full Guide to Develop a Smart Release Notes Generator in ReactJs.](https://www.sevensquaretech.com/smart-release-notes-generator-reactjs-github-code/)
+
 ---
 
 📦 Installation
